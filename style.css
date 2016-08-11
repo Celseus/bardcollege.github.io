@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #000000;
     color: #000000;
     font-size: 100%;
     line-height: 2.5;
@@ -8,12 +8,12 @@ body {
 h1{
     margin-top:0px;
     margin-bottom: 10px;
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 1px solid #000000;
 }
 
 h3{
     margin:0px;
-    color: #ffffff;
+    color: #000000;
 }
 
 h2{
@@ -54,15 +54,15 @@ img{
 }
 
 .button {
-    background: white;
+    background: black
     font-size: 110%;
     color:gray;
     padding: 4px;
-    border:2px solid white;
+    border:2px solid black;
 }
 
 .redacted{
-    background-color: #ffffff;
+    background-color: #000000;
     color: #000000;
 }
 
