@@ -1,19 +1,19 @@
 body {
-    background-color: #000007;
-    color: #000000;
-    font-size: 100%;
-    line-height: 2.5;
+    background-color: #161616;
+    color: #D7CEC7;
+    font-size: 150%;
+    line-height: 1.4;
 }
 
 h1{
     margin-top:0px;
-    margin-bottom: 0px;
-    border-bottom: 0px solid #000000;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #AEB7A7;
 }
 
 h3{
     margin:0px;
-    color: #000000;
+    color: #CED7A7;
 }
 
 h2{
@@ -25,12 +25,12 @@ h2{
 }
 
 a {
-    color: #ffffff;
-    text-decoration: line;
+    color: #32763F;
+    text-decoration: none;
 }
 
 a:visited {
-    color: #000000;
+    color: #9FC080;
     text-decoration: none;
 }
 
@@ -40,34 +40,34 @@ img{
 
 .headshot{
     float:right;
-    height: 0px;
+    height: 360px;
     padding-top:0px;
 }
 
 .textbox {
-    width:0%;
+    width:70%;
     color: white;
-    font-size: 0%;
-    background:white;
-    padding: 0px;
-    border:0px solid white;
+    font-size: 110%;
+    background:gray;
+    padding: 4px;
+    border:1px solid white;
 }
 
 .button {
-    background: white
-    font-size: 0%;
-    color:black;
-    padding: 0px;
-    border:0px solid black;
+    background: white;
+    font-size: 110%;
+    color:gray;
+    padding: 4px;
+    border:2px solid white;
 }
 
 .redacted{
-    background-color: #000000;
-    color: #000000;
+    background-color: #D7CEC7;
+    color: #D7CEC7;
 }
 
 .half{
-    width: 0%;
+    width: 48%;
     float: left;
 }
 
